@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Correction du devoir</string>
+    <string name="btn_submit">Soumettre</string>
+    <string name="titre_principal">Gestion des données</string>
+</resources>
